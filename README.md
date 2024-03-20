@@ -1,5 +1,5 @@
 # Medicenter Flexbox Template
 
-Meu primeiro projeto utilizando HTML, CSS e JS (interno). Um website responsivo, com base no template "Medicenter" da <a href="https://quanticalabs.com/">QuanticaLabs</a>.
+My first project using HTML, CSS, and JS (internal). A responsive website, based on the 'Medicenter' template from QuanticaLabs.
 
-Idealizado durante o módulo 7 do curso "HTML5 e CSS3" da B7Web.
+Idealized during module 7 of the 'HTML5 and CSS3' course at B7Web.
